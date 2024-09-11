@@ -1,0 +1,25 @@
+.slick-slider .slick-next {
+  padding-top: 2px;
+  width: 25px;
+  height: 25px;
+  background-color: rgb(0, 0, 0); 
+  border-radius: 5px;
+  }
+
+.slick-slider .slick-prev { 
+  padding-top: 2px;
+  width: 25px; 
+  height: 25px;
+  background-color: rgb(0, 0, 0);
+  border-radius: 5px;
+}
+
+.slick-slider .slick-next:hover { 
+  border: 1px solid;
+  background-color: black;
+}
+
+.slick-slider .slick-prev:hover { 
+  border: 1px solid; 
+  background-color: black;
+}
